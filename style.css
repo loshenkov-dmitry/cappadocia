@@ -866,10 +866,7 @@ color: #000000;
         }
 
     .footer__contacts-title {
-        margin-bottom: 14px;
-        padding-top: 9px;
-        font-size: 57px;
-        line-height: 109px;
+        display: none;
     }
 
 }
