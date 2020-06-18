@@ -822,19 +822,16 @@ color: #000000;
     .footer__contacts-title {
         margin-bottom: 14px;
         padding-top: -29px;
+        font-size: 73px;
+        line-height: 81px;
     }
     .footer__contacts {
         background-size: 90% auto;
     background-repeat: no-repeat;
-    background-position-x: center;
+    background-position: top center;
     width: 100%;
 
         }
-
-    .footer__contacts-title {
-        font-size: 73px;
-        line-height: 81px;
-    }
 
 }
 
