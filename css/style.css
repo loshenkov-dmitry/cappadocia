@@ -715,10 +715,9 @@ color: #000000;
     }
 
     .footer__text {
-        margin-top: 20px;
         display: inline-block;
         position: absolute;
-        bottom: 0;
+        top: -10px;
     }
 }
 
